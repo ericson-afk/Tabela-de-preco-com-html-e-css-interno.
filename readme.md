@@ -1,2 +1,2 @@
 # Tabela de preço com HTML e CSS
-![imagem](C:\Users\Ericson\OneDrive\Imagens\Captura de tela 2023-12-05 142555.png)
+![imagem](https://github.com/ericson-afk/test/blob/main/Captura%20de%20tela%202023-12-05%20142555.png)
